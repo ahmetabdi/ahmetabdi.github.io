@@ -1,10 +1,12 @@
-name: Simply Grey 
+name: Ahmet
 markdown: redcarpet
 pygments: true
-github: www.github.com/exaem
+github: www.github.com/ahmetabdi
 about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
 urls:
+    - text: twitter
+      url: https://twitter.com/ahmet1up
     - text: github
-      url: https://github.com/exaem
+      url: https://github.com/ahmetabdi
     - text: email
-      url: mailto:exaem@exaem.co.uk
+      url: mailto:ahmetabdi@gmail.com
