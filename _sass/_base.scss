@@ -1,3 +1,22 @@
+.share-page {
+    text-align: center;
+    background: lightblue;
+    color: black;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 1.5 * 1 0;
+
+    a {
+        font-weight: 700;
+        color: #fff;
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 1px dashed #fff;
+        }
+    }
+}
+
 /**
  * Reset some basic elements
  */
