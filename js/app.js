@@ -31,9 +31,9 @@ function init() {
   var amount = 200;
   var radius = 500;
 
-  var mapA = THREE.ImageUtils.loadTexture( "ruby.png", undefined, createHUDSprites );
-  var mapB = THREE.ImageUtils.loadTexture( "ruby.png" );
-  mapC = THREE.ImageUtils.loadTexture( "ruby.png" );
+  var mapA = THREE.ImageUtils.loadTexture( "/ruby.png", undefined, createHUDSprites );
+  var mapB = THREE.ImageUtils.loadTexture( "/ruby.png" );
+  mapC = THREE.ImageUtils.loadTexture( "/ruby.png" );
 
   group = new THREE.Group();
 
