@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Visual Stude Code with Ruby on Rails"
+title:  "Using Visual Studio Code with Ruby on Rails"
 date:   2016-09-13 13:23:39 +0000
 categories: development
 ---
